@@ -1,0 +1,24 @@
+{
+    "description": "My crypto golden cat (Drawn when I was 9 years old).",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSWVJVVyQ9t2B7uwxewuH9maWpXRTonkvT2W7L8PPaKX3",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTpCWceP4muG1ds9cq8QDGCv42Jky6HzpDZABs3kUqTfJ",
+    "name": "Crypto golden cat",
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Mikaela Camila Somma"
+        },
+        {
+            "trait_type": "Size",
+            "value": "1460px x 2100px"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Manual design"
+        },
+        {
+            "trait_type": "Years old",
+            "value": "Manual design"
+        }
+    ]
+}

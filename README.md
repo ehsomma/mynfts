@@ -7,7 +7,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/ehsomma/mydao)](https://github.com/ehsomma/mynfts/issues)
 [![License](https://img.shields.io/badge/license-MIT-informational)](/LICENSE)
 
-This project implements the https://eips.ethereum.org/EIPS/eip-721[ERC721] Non-Fungible Token Standard, including the Metadata, Enumerable and Ownable  extensions, and include a mint function to mint from a list of IPFS hashes (CIDs) that link to the json metadata.
+This project implements the [ERC721](https://eips.ethereum.org/EIPS/eip-721) Non-Fungible Token Standard, including the Metadata, Enumerable and Ownable  extensions, and include a mint function to mint from a list of IPFS hashes (CIDs) that link to the json metadata.
 
 ### About the NFTs collection
 First works by artists who don't yet know they are artists... but they will be.
